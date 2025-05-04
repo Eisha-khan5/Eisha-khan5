@@ -37,22 +37,6 @@ This GitHub profile is a curated **portfolio of my growth**, showcasing:
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
----
-
-### 📘 Featured Repository: [Data Science & AI Learning](https://github.com/<your-username>/data-science)
-
-This is my comprehensive learning base where I’ve structured everything I’ve learned — from Python basics to complex ML/DL models, complete with code, documentation, and real-world projects.
-
-📁 Explore folders for:
-- Python Basics
-- Numpy & Pandas
-- Feature Scaling & Statistics
-- Supervised & Unsupervised Machine Learning
-- Deep Learning (ANN, CNN)
-- Plotly Interactive Plots
-- Hands-on Projects
-
----
 
 ### 🌐 Connect With Me
 
