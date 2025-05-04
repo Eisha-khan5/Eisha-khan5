@@ -46,5 +46,4 @@ This GitHub profile is a curated **portfolio of my growth**, showcasing:
 ---
 
 > 🌱 “Always learning. Always building.”  
-> – Eisha Nadeem
 
